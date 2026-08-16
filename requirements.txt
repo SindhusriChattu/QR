@@ -1,0 +1,5 @@
+streamlit
+qrcode[pil]
+streamlit-autorefresh
+scikit-learn
+groq
