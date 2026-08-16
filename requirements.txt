@@ -1,6 +1,0 @@
-streamlit
-qrcode[pil]
-streamlit-autorefresh
-sentence-transformers
-faiss-cpu
-groq
